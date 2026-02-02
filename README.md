@@ -31,7 +31,7 @@ Cette formule permet de **reproduire avec exactitude** des phénomènes très va
 
 ---
 
-## 3. Champ scalaire $$\(f(x^\mu)\)$£
+## 3. Champ scalaire $$\(f(x^\mu)\)$$
 
 Pour transformer le facteur $\(f\)$ en **grandeur physique fondamentale**, on le définit comme **un champ scalaire sur l’espace-temps** :
 
