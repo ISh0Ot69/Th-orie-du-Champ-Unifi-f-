@@ -131,3 +131,8 @@ est **numériquement et physiquement cohérente** dans tous les tests connus.
 4. Ta formule devient alors **une conséquence du champ $\(f\)$**, qui recoupe la relativité générale mais peut prédire des effets nouveaux.
 
 ---
+|                         |
+|   TOUS DROITS RÉSERVÉS  |
+|   © [Jean-Etienne LEPOUTRE]
+[2026] |
+|_________________________|
