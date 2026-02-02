@@ -78,32 +78,32 @@ $$\[
 
 ## 6. Couplage matière–\(f\)
 
-Exemple de lagrangien matière avec couplage à \(f\) :
+Exemple de lagrangien matière avec couplage à $\(f\)$ :
 
-\[
+$$\[
 \mathcal{L}_{\rm mat} = \bar\psi (i \gamma^\mu D_\mu - m)\psi + \frac{1}{4} F_{\mu\nu} F^{\mu\nu} + \lambda f \bar\psi \psi + \dots
-\]
+\]$$
 
 - Premier terme : matière fermionique  
 - Deuxième terme : champ électromagnétique  
-- Troisième terme : interaction directe \(f\)-matière (\(\lambda\) : constante de couplage)  
+- Troisième terme : interaction directe $$\(f\)-matière (\(\lambda\)$$ : constante de couplage)  
 - … : autres interactions éventuelles
 
 ---
 
 ## 7. Interprétation physique
 
-- \(f\) encode toutes les **influences sur l’énergie locale** : gravité, mouvement, champs, expansion cosmologique, cohérence quantique.  
-- Ta relation masse-énergie devient **une conséquence observable du champ \(f\)**.  
+- $\(f\)$ encode toutes les **influences sur l’énergie locale** : gravité, mouvement, champs, expansion cosmologique, cohérence quantique.  
+- Ta relation masse-énergie devient **une conséquence observable du champ $\(f\)$**.  
 - Dans la limite gravité faible :
 
-\[
+$$\[
 f(x) \approx \frac{\Phi(x)}{c^2} \quad \Rightarrow \quad \frac{E_r}{E_l} \approx 1 - \frac{\Phi}{c^2}
-\]
+\]$$
 
 ce qui **reproduit la relativité générale**.
 
-- \(f\) peut **aller au-delà** dans des régimes extrêmes (trous noirs, cosmologie très lointaine, effets quantiques).
+- $\(f\)$ peut **aller au-delà** dans des régimes extrêmes (trous noirs, cosmologie très lointaine, effets quantiques).
 
 ---
 
@@ -119,15 +119,15 @@ ce qui **reproduit la relativité générale**.
 
 ## 9. Résumé
 
-1. La TCU‑f relie **masse, énergie et espace-temps** via un facteur unique \(f\).  
+1. La TCU‑f relie **masse, énergie et espace-temps** via un facteur unique $\(f\)$.  
 2. La formule
 
-\[
+$$\[
 \frac{E_r}{E_l} = \frac{M_r}{M_l} + \frac{f}{c^2}
-\]
+\]$$
 
 est **numériquement et physiquement cohérente** dans tous les tests connus.  
-3. En définissant \(f\) comme **champ scalaire dynamique**, la théorie devient un **cadre unificateur minimal, testable et mathématiquement solide**.  
-4. Ta formule devient alors **une conséquence du champ \(f\)**, qui recoupe la relativité générale mais peut prédire des effets nouveaux.
+3. En définissant $\(f\)$ comme **champ scalaire dynamique**, la théorie devient un **cadre unificateur minimal, testable et mathématiquement solide**.  
+4. Ta formule devient alors **une conséquence du champ $\(f\)$**, qui recoupe la relativité générale mais peut prédire des effets nouveaux.
 
 ---
